@@ -22,7 +22,6 @@ export const AllFilters = () => {
           }
     );
   };
-  console.log(filter.checkBoxArray);
   return (
     <div>
       <h1>Filters:</h1>
